@@ -1,0 +1,29 @@
+.header{
+    background-color: #0f8f8f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+}
+
+.btn{
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 5px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: #ff5722;
+    color: white;
+}
+
+.logo{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 24px;
+}
